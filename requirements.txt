@@ -1,0 +1,6 @@
+torch==2.4.0
+torch-geometric
+torch-cluster --find-links https://data.pyg.org/whl/torch-2.4.0+cu121.html
+numpy
+pandas
+biopython
